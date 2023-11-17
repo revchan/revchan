@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @revchan
-- 👀 I’m interested in .NET application development Ane full stack workflows
+- 👀 I’m interested in .NET application development and Full stack workflows
 - 🌱 I’m currently learning React and Azure.
 
 <!---
